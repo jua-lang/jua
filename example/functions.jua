@@ -1,0 +1,11 @@
+function print_numbers(numbers: Array<Integers>){
+  number.foreach {|number| System.print(number)}
+}
+
+function square(number: int){
+  :number * :number
+}
+
+val numbers := [1,2,3,4,5,6]
+numbers.map(square)(print_numbers)
+//[2,4,6]

@@ -1,0 +1,6 @@
+//default class
+class Jua {
+  @static main(args: Array<String>){
+    System.print("Hello world from Jua")
+  }
+}
